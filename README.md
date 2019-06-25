@@ -2,7 +2,7 @@
 
 Author: Konrad Krawczyk, <a href="http://naturalantibody.com" target="_blank">NaturalAntibody</a>.
 
-This script allows to perform sequence searches on the therapeutic antibodies curated in <a href="http://opig.stats.ox.ac.uk/webapps/newsabdab/therasabdab/search/" target="_blank">BISDAB</a>.
+This script allows to perform sequence searches on the therapeutic antibodies curated in <a href="http://opig.stats.ox.ac.uk/webapps/newsabdab/therasabdab/search/" target="_blank">Thera-Sabdab</a>.
 
 
 ## Prerequisites.
